@@ -7,5 +7,6 @@ fileignoreconfig:
   checksum: e015bac50dc82b9c2ebb5e94ae370391a19d449b1a5f920ebc13896bf67837d5
 - filename: src/main/resources/db/migration/V1.4__AddColumnPrimaryPhoneNumberToUsersTable.sql
   checksum: 15858c5642e05f505cb485a8b8f2afdad78694a342437f1e2bac39b03ec922b9
-
+- filename: src/main/resources/db/migration/V1.5__CreateCartsTable.sql
+  checksum: 32d0b29acf407fd2d220389afd15667e475f55e974447576966b07ff972aa91d
 version: ""
