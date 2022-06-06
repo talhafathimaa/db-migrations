@@ -3,4 +3,7 @@ fileignoreconfig:
   checksum: b980279cbc66d5c0da01a4fe4867a440f58d65abc1ab52438518e3c874866131
 - filename: src/main/resources/db/migration/V1.2__CreateProductsTable.sql
   checksum: 03e3102d29ef3dd0e89ea611d592c71b5761b814d048789b93182c6884e55413
+- filename: src/main/resources/db/migration/V1.3__RenameColumnNameToFullNameInUsersTable.sql
+  checksum: e015bac50dc82b9c2ebb5e94ae370391a19d449b1a5f920ebc13896bf67837d5
+
 version: ""
