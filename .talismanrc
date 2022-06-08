@@ -9,4 +9,6 @@ fileignoreconfig:
   checksum: 15858c5642e05f505cb485a8b8f2afdad78694a342437f1e2bac39b03ec922b9
 - filename: src/main/resources/db/migration/V1.5__CreateCartsTable.sql
   checksum: 32d0b29acf407fd2d220389afd15667e475f55e974447576966b07ff972aa91d
+- filename: src/main/resources/db/migration/V1.6__CreateCartItemsTable.sql
+  checksum: 8f1f774f676dd30214aeaf50efde0e1eb9259b2cf7e8b7a3c94a7343cb431080
 version: ""
